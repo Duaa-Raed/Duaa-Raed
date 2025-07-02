@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Duaa!
+# 👋 Hi there, I'm Duaa 
 
  
  *Self-taught Data Analyst driven by curiosity and detail*
