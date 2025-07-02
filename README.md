@@ -19,7 +19,9 @@
 - **TikTok Claim Classification** – Built a machine learning pipeline to classify video content into claim or opinion using metadata and text features  
 - **AdventureWorks Analysis** – Deep SQL-based insights for supply chain and inventory performance  
 
->  **Check pinned repositories** for full project READMEs and insights.
+  **Check pinned repositories** for full project READMEs and insights.
+
+
 
 > *More projects coming soon — I build to learn and share.*
 
@@ -31,7 +33,7 @@
 
 ## ✨ Quote I Live By
 
-> **"Data explorer by nature — I don’t just analyze data, I understand its behavior."**
+**"Data explorer by nature — I don’t just analyze data, I understand its behavior."**
 
 
  *Passion for data meets action. Every project is a new discovery.*
