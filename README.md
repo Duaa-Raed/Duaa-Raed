@@ -16,13 +16,13 @@
 ##  Featured Projects
 
 - **Waze Churn Prediction**
--  – Understanding user behavior and predicting churn using XGBoost and custom threshold tuning
--  
+- Understanding user behavior and predicting churn using XGBoost and custom threshold tuning
+ 
 - **TikTok Claim Classification**
--  – Built a machine learning pipeline to classify video content into claim or opinion using metadata and text features
--  
+- Built a machine learning pipeline to classify video content into claim or opinion using metadata and text features
+   
 - **AdventureWorks Analysis**
--  – Deep SQL-based insights for supply chain and inventory performance  
+- Deep SQL-based insights for supply chain and inventory performance  
 
   **Check pinned repositories** for full project READMEs and insights.
 
