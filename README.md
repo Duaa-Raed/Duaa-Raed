@@ -27,11 +27,17 @@ Built a machine learning pipeline to classify video content into claim or opinio
 
 Deep SQL-based insights for supply chain and inventory performance  
 
+
+
   **Check pinned repositories** for full project READMEs and insights.
 
 
 
+
+
 > *More projects coming soon — I build to learn and share.*
+
+
 
 
 ## Currently Learning
