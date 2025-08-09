@@ -41,9 +41,9 @@ Deep SQL-based insights for supply chain and inventory performance
 
 
 ## Currently Learning
-- Building a strong foundation in machine learning through real-world projects  
-- Mastering Power BI for impactful and interactive dashboard storytelling  
-- Deep dive into real-world business cases
+- Advancing skills in Machine Learning & Deep Learning through the IBM AI Engineering Professional Certificate
+- Applying AI techniques to real-world projects and business challenges  
+- Enhancing expertise in Power BI for impactful, interactive data storytelling
 
 ## ✨ Quote I Live By
 
