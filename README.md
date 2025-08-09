@@ -1,7 +1,9 @@
 # 👋 Hi there, I'm Duaa 
 
  
- *Self-taught Data Analyst driven by curiosity and detail*
+ *Self-taught Data Analyst and Aspiring AI Engineer, skilled in Data Analysis, Machine Learning, and Deep Learning. Passionate about turning complex data into actionable insights, driven by curiosity and a keen eye for detail.
+
+*
  
 
 
