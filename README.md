@@ -7,11 +7,11 @@
 
  ##  Skills & Tools
 
-- **Programming:** Python, SQL
-- **Data Analysis:** Pandas, NumPy
+- **Programming :** Python, SQL
+- **Data Analysis & Processing::** Pandas, NumPy
 - **Visualization:** Power BI, Matplotlib, Seaborn
-- **Machine Learning:** scikit-learn, XGBoost, Random Forest
-- **Soft Skills:** Problem solving, Critical thinking, Self-learning
+- **Machine Learning & AI :**  Regression, Classification, Deep Learning (Keras, TensorFlow), Model Optimization, Feature Engineering
+- **Soft Skills:** Problem Solving, Critical Thinking, Continuous Self-Learning, Attention to Detail
 
 ##  Featured Projects
 
