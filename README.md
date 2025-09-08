@@ -10,7 +10,7 @@
 - **Programming :** Python, SQL
 - **Data Analysis & Processing::** Pandas, NumPy
 - **Visualization:** Power BI, Matplotlib, Seaborn
-- **Machine Learning & AI :**  Regression, Classification, Deep Learning (Keras, TensorFlow), Model Optimization, Feature Engineering
+- **Machine Learning & AI :**  Regression, Classification, Deep Learning , Model Optimization, Feature Engineering
 - **Soft Skills:** Problem Solving, Critical Thinking, Continuous Self-Learning, Attention to Detail
 
 ##  Featured Projects
